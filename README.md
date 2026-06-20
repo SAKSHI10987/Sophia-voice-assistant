@@ -17,7 +17,7 @@ requests
 webbrowser
 
 📦 Installation
-git clone https://github.com/your-username/sophia.git
+git clone https://github.com/SAKSHI10987/Sophia-voice-assistant.git
 cd sophia
 pip install -r requirements.txt
 ▶️ Run the Project
